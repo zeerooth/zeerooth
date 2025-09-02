@@ -16,6 +16,6 @@ And of course let's not forget about the OG way of git through email.
 
 ### Next steps
 
-In the coming weeks will be moving all my repositories over to [my profile at Codeberg](https://codeberg.org/zeerooth) and purging as much of my data as possible from GitHub.
+In the coming weeks will be moving all my repositories over to [my profile at Codeberg](https://codeberg.org/pekoedotsh) and purging as much of my data as possible from GitHub.
 
 I don't know if this message will reach anyone, but I hope it can at least inspire you to reconsider your usage of this platform.
